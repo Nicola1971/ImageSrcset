@@ -6,7 +6,7 @@
  *
  * @author    Nicola Lambathakis http://www.tattoocms.it/
  * @category    snippet
- * @version    1.1
+ * @version    1.2
  * @license	 http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal    @installset base
  * @internal    @modx_category Images
@@ -29,10 +29,8 @@ $ImageWlg = (isset($ImageWlg)) ? $ImageWlg : '964'; // Large (lg)
 $ImageWmd = (isset($ImageWmd)) ? $ImageWmd : '724'; // Medium (md)
 $ImageWsm = (isset($ImageWsm)) ? $ImageWsm : '530'; // Small (sm)
 
-
 // phpthumb parameters
 $input = (isset($input)) ? $input : ''; // PhpThumb input image
-$options = (isset($options)) ? $options : ''; // PhpThumb options
 $ImageQ = (isset($ImageQ)) ? $ImageQ : '80'; // Image quality
 $ImageZC = (isset($ImageZC)) ? $ImageZC : 'T'; // Image Zoom crop
 $ImageF = (isset($ImageF)) ? $ImageF : 'webp'; // Image Format
