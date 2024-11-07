@@ -2,7 +2,7 @@
 /**
  * ImageSrcset
  *
- * Create responsive image searchset with PHPThumb
+ * Create responsive image Srcset with PHPThumb
  *
  * @author    Nicola Lambathakis http://www.tattoocms.it/
  * @category    snippet
