@@ -1,3 +1,3 @@
 # ImageSrcset Snippet for Evolution CMS
 
-### Create image searchset with PHPThumb
+### Create responsive image searchset with PHPThumb
